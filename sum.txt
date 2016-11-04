@@ -1,4 +1,6 @@
 public int sum(int x,int y)
 {
-	return x+y; 
+	int result= x+y;
+aaaa	
+return result;
 }
